@@ -10,14 +10,9 @@ This application is multithreaded and can handle multible clients at the same ti
 
 ***********************************************************************************************
 # Requirements:
-NetBeans IDE 8.2
-Jar Files:
-1. commons.dbutils-1.7.jar
-1. commons.dbutils-1.7-javadoc.jar
-2. commons.dbutils-1.7-sources.jar
-4. commons.dbutils-1.7-tests.jar
-1. commons.dbutils-1.7-tests-sources.jar
-1. Xampp with covid19_by_country database (no changes have been made to the database)
+NetBeans 12.4
+
+1. MySQL with covid19_by_country database (no changes have been made to the database)
 ***********************************************************************************************
 Application Core Functionality:
 
